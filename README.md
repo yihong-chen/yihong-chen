@@ -3,6 +3,8 @@
 <!--
 **yihong-chen/yihong-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+PhD student in UCL NLP, interested in embeddings, graphs and large-scaled learning systems; Open-source comprehensible research software
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🚀 I'm Yihong Chen, a PhD student at [UCL NLP](https://nlp.cs.ucl.ac.uk/) and Facebook AI Research London. 
+- 🔭 I’m currently working on processing large-scale knowledge graphs.
+- 👯 I’m looking to collaborate on training large-scale knowledge graph embeddings, pretraining on graphs etc.
+- 🤔 I’m looking for help with some theory for regularization methods in tensor decomposition.
+- 📫 How to reach me: yihong-chen AT outlook DOT com
