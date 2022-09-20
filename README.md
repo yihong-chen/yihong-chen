@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me yihong-chen AT outlook DOT com or simply [book a zoom meeting with me](https://calendly.com/yhc-curiosity/30min)
 
 ### News
-- :boom: *REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective* to appear in NeurIPS 2022! If you are interested in why FMs can be some special GNNs, check out the full paper [here](https://arxiv.org/pdf/2207.09980.pdf)
+- :boom: *REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective* to appear in NeurIPS 2022! If you are interested in **why FMs can be some special GNNs**, check out the full paper [here](https://arxiv.org/pdf/2207.09980.pdf)
