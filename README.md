@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🚀 I'm Yihong Chen, a joint PhD student at Facebook AI Research London and [UCL NLP](https://nlp.cs.ucl.ac.uk/). 
 - 🔭 I’m working on AI abstraction/reasoning, specifically how to represent/use a discrete object/concept in different systems.
-- 👯 I’m happy to collaborate on any topics related to embedding learning, graph learning and transformers, 
+- 👯 I’m happy to collaborate on any topics related to embedding learning, graph learning and transformers. 
 - 📫 How to reach me: email me yihong-chen AT outlook DOT com or simply [book a zoom meeting with me](https://calendly.com/yhc-curiosity/30min)
 
 ### News
