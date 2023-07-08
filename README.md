@@ -2,7 +2,7 @@
 
 My name is Yihong Chen, and I am a joint PhD student between Meta AI (FAIR London) and [UCL NLP](https://nlp.cs.ucl.ac.uk/). My research focuses on AI knowledge acquisition, specifically on how different AI systems can learn to represent and use concepts/symbols efficiecntly.
 
-I am open to collaborations on topics related to embedding learning, link prediction, and language modeling. If you would like to get in touch, you can reach me by emailing yihong-chen AT outlook DOT com or by [booking a Zoom meeting with me](https://calendly.com/yhc-curiosity/30min).
+I am open to collaborations on topics related to embedding learning, link prediction, and language modeling. If you would like to get in touch, you can reach me by emailing yihong-chen AT outlook DOT com, poke me on [Threads](https://www.threads.net/@yihong.curiosity) or simply booking a [Zoom meeting](https://calendly.com/yhc-curiosity/30min) with me.
 
 ### Looking for Some Inspirations?
 :boom: Jul 2023, discover the power of forgetting in language modelling! Our latest work, [*Improving Language Plasticity via Pretraining with Active Forgetting*](https://arxiv.org/abs/2307.01163), shows how pretraining a language model with active forgetting can help it quickly learn **new** languages. You'll be amazed by the model plasticity imbued via pretraining with forgetting. Check it out :)
