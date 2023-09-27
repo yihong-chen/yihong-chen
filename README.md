@@ -1,10 +1,14 @@
 ### Welcome! 👋
 
-My name is Yihong Chen, and I am a joint PhD student between Meta AI (FAIR London) and [UCL NLP](https://nlp.cs.ucl.ac.uk/). My research focuses on AI knowledge acquisition, specifically on how different AI systems can learn to represent and use concepts/symbols efficiecntly.
+My name is Yihong Chen, and I am a joint PhD student between Fundamental AI Research at Meta and [UCL NLP](https://nlp.cs.ucl.ac.uk/). My research focuses on AI knowledge acquisition, specifically on how different AI systems can learn to represent and use concepts/symbols efficiecntly.
 
 I am open to collaborations on topics related to embedding learning, link prediction, and language modeling. If you would like to get in touch, you can reach me by emailing yihong-chen AT outlook DOT com, poke me on [Threads](https://www.threads.net/@yihong.curiosity) or simply booking a [Zoom meeting](https://calendly.com/yhc-curiosity/30min) with me.
 
 ### Looking for Some Inspirations?
+
+:boom: Sep 2023, our latest work [*Improving Language Plasticity via Pretraining with Active Forgetting*](https://arxiv.org/abs/2307.01163) is accepted by NeurIPS 2023!
+
+:boom: Sep 2023, I presented our latest work on forgetting at [IST-Unbabel seminar](https://ist-unbabel-seminars.github.io/).
 
 :boom: Jul 2023, I presented our latest work on forgetting language modelling at ELLIS Unconference 2023. The slides are available [here](https://docs.google.com/presentation/d/16JMv3_P9w0kX7NXkvN73236atOjwWXWiLp1anKOubxo/edit?usp=sharing). Feel free to leave your comments.
 
