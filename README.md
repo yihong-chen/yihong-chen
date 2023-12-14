@@ -6,6 +6,8 @@ I am open to collaborations on topics related to embedding learning, link predic
 
 ### Looking for Some Inspirations?
 
+💥 Dec 2023, I will present our forgetting paper at NeurIPS 2023. Check out the poster [here](https://pbs.twimg.com/media/GBQ6AGBWAAA6sn4?format=jpg&name=4096x4096).
+
 :boom: Sep 2023, our latest work [*Improving Language Plasticity via Pretraining with Active Forgetting*](https://arxiv.org/abs/2307.01163) is accepted by NeurIPS 2023!
 
 :boom: Sep 2023, I presented our latest work on forgetting at [IST-Unbabel seminar](https://ist-unbabel-seminars.github.io/).
