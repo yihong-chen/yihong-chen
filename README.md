@@ -1,10 +1,12 @@
 ### Welcome! 👋
 
-My name is Yihong Chen, and I am a joint PhD student between Fundamental AI Research at Meta and [UCL NLP](https://nlp.cs.ucl.ac.uk/). My research focuses on AI knowledge acquisition, specifically on how different AI systems can learn to represent and use concepts/symbols efficiecntly.
+My name is Yihong Chen. I research on AI knowledge acquisition, specifically on how different AI systems can learn to abstract, represent and use concepts/symbols efficiecntly.
 
-I am open to collaborations on topics related to embedding learning, link prediction, and language modeling. If you would like to get in touch, you can reach me by emailing yihong-chen AT outlook DOT com, poke me on [Threads](https://www.threads.net/@yihong.curiosity) or simply booking a [Zoom meeting](https://calendly.com/yhc-curiosity/30min) with me.
+I am open to collaborations on topics related to embedding learning, link prediction, and language modeling. If you would like to get in touch, you can reach me by emailing yihong-chen AT outlook DOT com, or simply booking a [Zoom meeting](https://calendly.com/yhc-curiosity/30min) with me.
 
 ### Looking for Some Inspirations?
+
+💥 Mar 2024, Quanta Magazine covers our research on periodical embedding forgetting. Check out the article [here](https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/). 
 
 💥 Dec 2023, I will present our forgetting paper at NeurIPS 2023. Check out the poster [here](https://pbs.twimg.com/media/GBQ6AGBWAAA6sn4?format=jpg&name=4096x4096).
 
