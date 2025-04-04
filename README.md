@@ -6,6 +6,8 @@ I am open to collaborations on topics related to embedding learning, link predic
 
 ### Looking for Some Inspirations?
 
+💥 Mar 2025, we have a new tool for interpreting transformers, check out [jet expansion](https://yihong-chen.github.io/jet_expand/).
+
 💥 Mar 2024, Quanta Magazine covers our research on periodic embedding forgetting. Check out the article [here](https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/). 
 
 💥 Dec 2023, I will present our forgetting paper at NeurIPS 2023. Check out the poster [here](https://pbs.twimg.com/media/GBQ6AGBWAAA6sn4?format=jpg&name=4096x4096).
