@@ -1,6 +1,8 @@
 ### Welcome! 👋
 
-My name is Yihong Chen, a researcher affiliated with OATML. I research on AI knowledge acquisition, specifically on how different AI systems can learn to abstract, represent, and use concepts/symbols efficiently. Particularly I care about bridging the gap between structured AI paradigm (e.g. symbolic AI) and unstructured AI paradigm (e.g. large language models) so that we can have a unified understanding of how knowledge formation happens in intelligent units. My thesis articulates the [vision](https://yihong-chen.github.io/thesis/). With this vision in mind, my recent focus is on AI reasoning, memory and continual learning. If you would like to get in touch, you can reach me at yihong-chen AT outlook DOT com. If you are a student at Oxford, please see my professional page [here](https://www.cs.ox.ac.uk/teaching/courses/projects/) for opportunities to get involved.
+My name is Yihong Chen, a researcher affiliated with OATML. I research on AI knowledge acquisition, specifically on how different AI systems can learn to abstract, represent, and use concepts/symbols efficiently. Particularly I care about bridging the gap between structured AI paradigm (e.g. symbolic AI) and unstructured AI paradigm (e.g. large language models) so that we can have a unified understanding of how knowledge formation happens in intelligent units. My thesis articulates the [vision](https://yihong-chen.github.io/thesis/). 
+
+With this vision in mind, my recent focus is on AI reasoning, memory and continual learning. If you would like to get in touch, you can reach me at yihong-chen AT outlook DOT com. If you are a student at Oxford, please see my professional page [here](https://www.cs.ox.ac.uk/teaching/courses/projects/) for opportunities to get involved.
 
 ### Looking for Some Inspirations?
 
