@@ -6,6 +6,8 @@ With this vision in mind, my recent focus is on AI reasoning, memory and continu
 
 ### Looking for Some Inspirations?
 
+:boom: Apr 2026, I will present our ICLR 2026 work [Decomposing LLM Computation with Jets](https://openreview.net/forum?id=u6JLh0BO5h). [Poster](https://yihong-chen.github.io/slides/2026ICLRjets-poster-svg/poster.pdf) [LinkedIn Post](https://www.linkedin.com/posts/yihong-chen-79a05a91_iclr2026-llm-interpretability-activity-7452478388356845568-k-8N?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNoLOYBd_0u2xw2kCh4G-jHwddG4bWfpBE) [Codebase](https://github.com/lucfra/JetExpansions)
+
 :boom: Jul 2025, [My PhD thesis is out!](https://yihong-chen.github.io/thesis/) Knowledge engines need not just structure, but also destructuring — for plasticity, flow, and adaptability.
 
 💥 Mar 2025, We have a new tool for interpreting transformers, check out [jet expansion](https://yihong-chen.github.io/jet_expand/).
