@@ -10,7 +10,7 @@ With this vision in mind, my recent focus is on AI reasoning, memory and continu
 
 :boom: Apr 2026, ICLR 2026 five-minute talk on [Decomposing LLM Computation with Jets](https://yihong-chen.github.io/slides/2026ICLRjets-5min/) — five-minute conference video deck.
 
-:boom: Feb 2026, Talk at the ILCC Seminar, University of Edinburgh: *[On the Role of Structure in Building Controllable AI — Where Is the Control Knob?](https://yihong-chen.github.io/slides/2026ilcc/index.html)*
+:boom: Feb 2026, Talk at the ILCC Seminar, University of Edinburgh: *[On the Role of Structure in Building Controllable AI](https://yihong-chen.github.io/slides/2026ilcc/index.html) — Where Is the Control Knob?*
 
 :boom: Jul 2025, [My PhD thesis is out!](https://yihong-chen.github.io/thesis/) Knowledge engines need not just structure, but also destructuring — for plasticity, flow, and adaptability.
 
