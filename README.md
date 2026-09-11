@@ -8,7 +8,7 @@ With this vision in mind, my recent focus is on AI reasoning, memory and continu
 
 :boom: Apr 2026, I will present our ICLR 2026 work [Decomposing LLM Computation with Jets](https://openreview.net/forum?id=u6JLh0BO5h). [[poster](https://yihong-chen.github.io/slides/2026ICLRjets-poster-svg/poster.pdf) | [linkedin](https://www.linkedin.com/posts/yihong-chen-79a05a91_iclr2026-llm-interpretability-activity-7452478388356845568-k-8N?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNoLOYBd_0u2xw2kCh4G-jHwddG4bWfpBE) | [codebase](https://github.com/lucfra/JetExpansions)]
 
-:boom: Apr 2026, ICLR 2026 five-minute talk on [Decomposing LLM Computation with Jets](https://yihong-chen.github.io/slides/2026ICLRjets-5min/) — five-minute conference video deck.
+:boom: Apr 2026, ICLR 2026 five-minute talk on [Decomposing LLM Computation with Jets](https://yihong-chen.github.io/slides/2026ICLRjets-5min/) 
 
 :boom: Feb 2026, Talk at the ILCC Seminar, University of Edinburgh: *[On the Role of Structure in Building Controllable AI](https://yihong-chen.github.io/slides/2026ilcc/index.html) — Where Is the Control Knob?*
 
